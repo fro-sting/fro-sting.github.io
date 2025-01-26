@@ -7,59 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>frosting</copyright>
-        <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://fro-sting.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>《毛泽东、斯大林、与朝鲜战争》</title>
-        <link>https://fro-sting.github.io/p/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%AF%E5%A4%A7%E6%9E%97%E4%B8%8E%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89/</link>
-        <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 22 Jan 2025 21:52:26 +0800</lastBuildDate><atom:link href="https://fro-sting.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First</title>
+        <link>https://fro-sting.github.io/p/first/</link>
+        <pubDate>Wed, 22 Jan 2025 21:52:26 +0800</pubDate>
         
-        <guid>https://fro-sting.github.io/p/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%AF%E5%A4%A7%E6%9E%97%E4%B8%8E%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89/</guid>
-        <description>&lt;img src="https://fro-sting.github.io/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 《毛泽东、斯大林、与朝鲜战争》" /&gt;&lt;p&gt;25年下决心要多看书，至少要看10本吧，在出去旅游的高铁上找到了这本讲朝鲜战争的书，评价很好，便下载看看。&lt;/p&gt;
-&lt;p&gt;说来每年还都会看上几本历史书，虽说太晦涩难懂的还是看不懂，并且没有作业课程什么的压力的话经常犯懒，看一会便看不下去，
-最近发现这的确是个问题，短视频看的太多导致很难长久的集中注意力，希望25年能把这个大毛病改掉，成绩不好怕不是和这个关系很大。&lt;/p&gt;
-&lt;p&gt;下面便聊聊这本书吧，写的很精彩我也很喜欢。&lt;/p&gt;
-&lt;h1 id=&#34;我和历史&#34;&gt;我和历史
-&lt;/h1&gt;&lt;p&gt;从小到大，历史书看的还真不少，小学二三年级去意大利前被家长半逼迫看了《希利尔讲世界史》，竟出乎意料的看完了大部分，与之相比，剩下两本地理史和艺术史完全看不下去，或许当时就已经预示了未来的道路。&lt;/p&gt;
-&lt;p&gt;母亲从小培养我的方式的由来至今还是谜团，究竟是误打误撞还是刻意为之，总之从小带我去了很多地方，上了一些课，对我的影响可谓是极大的。在罗老师和宋老师这种说实话有点像古时候私塾的地方呆了挺久，虽说还是理工男的脑子，但在历史与文学中这么长时间的浸润还是打下了基础，至少在受到语文无尽的折磨完，脱离考试后仍然有兴趣和意愿去看看这些书，其实让我对应试教育的观感好了很多。&lt;/p&gt;
-&lt;p&gt;初中在地理和历史中比较坚定的选择了历史，高中时有些犹豫，觉得自己应该是理科生不该选历史，但忘了是生物学的太烂还是家长的建议，最后还是选了历史这科，于是说来便正经学了6年的历史。影响最深的应该还是赵利剑老师，在最紧张的高三还悠闲地用看起来不是很应试的方法慢慢过了全部的课本，讲卷子和做题技巧似乎都很不情愿，现在想来，对这门学科，理解历史比背诵要重要不少。最后历史高考好像没有发挥出平常的水平，不过也无所谓了。&lt;/p&gt;
-&lt;p&gt;可能背诵了六年的东西很快都会忘却，但经过六年一遍又一遍的看课本、写题目，看待历史的方法、角度和对历史的认识其实已经在大脑里形成，当然这些没法用语言表达出来，但当读到某段历史，或是看到当下发生的新闻事件，已经能很自然地归纳概括并得出自己的观点。&lt;/p&gt;
-&lt;p&gt;瞎扯了这么多，因为以后还会看很多历史书，写很多读后感，就当作序章吧。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>第一篇博客</title>
-        <link>https://fro-sting.github.io/p/test-chinese/</link>
-        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://fro-sting.github.io/p/test-chinese/</guid>
-        <description>&lt;p&gt;#第一篇文章&lt;/p&gt;
-&lt;p&gt;想想还是在推荐下做一个自己的网页，写上一点东西&lt;/p&gt;
-&lt;p&gt;或许会说一些朋友圈不敢说的东西，不过这也算是一个公开的网站得收着点，希望未来能写一些自己感兴趣的东西吧。&lt;/p&gt;
-&lt;p&gt;先做个笔记怎么上传：&lt;/p&gt;
-&lt;p&gt;首先是打开方式：&lt;/p&gt;
-&lt;p&gt;直接从文件夹中打开命令行&lt;/p&gt;
-&lt;p&gt;添加新的博客：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new content/posts/标题.md
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;之后是上传到github&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;update&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+        <guid>https://fro-sting.github.io/p/first/</guid>
+        <description></description>
         </item>
         <item>
         <title>归档</title>
@@ -298,6 +252,39 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Markdown Syntax Guide</title>
+        <link>https://fro-sting.github.io/p/markdown-syntax-guide/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://fro-sting.github.io/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://fro-sting.github.io/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;《毛泽东、斯大林、与朝鲜战争》&amp;rdquo;
+date: 2025-01-26
+draft: false
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;读书笔记&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;中国近现代史&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;历史&amp;rdquo;
+categories:&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;历史&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;阅读&amp;rdquo;
+image : &amp;ldquo;pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;25年下决心要多看书，至少要看10本吧，在出去旅游的高铁上找到了这本讲朝鲜战争的书，评价很好，便下载看看。&lt;/p&gt;
+&lt;p&gt;说来每年还都会看上几本历史书，虽说太晦涩难懂的还是看不懂，并且没有作业课程什么的压力的话经常犯懒，看一会便看不下去，
+最近发现这的确是个问题，短视频看的太多导致很难长久的集中注意力，希望25年能把这个大毛病改掉，成绩不好怕不是和这个关系很大。&lt;/p&gt;
+&lt;p&gt;下面便聊聊这本书吧，写的很精彩我也很喜欢。&lt;/p&gt;
+&lt;h1 id=&#34;我和历史&#34;&gt;我和历史
+&lt;/h1&gt;&lt;p&gt;从小到大，历史书看的还真不少，小学二三年级去意大利前被家长半逼迫看了《希利尔讲世界史》，竟出乎意料的看完了大部分，与之相比，剩下两本地理史和艺术史完全看不下去，或许当时就已经预示了未来的道路。&lt;/p&gt;
+&lt;p&gt;母亲从小培养我的方式的由来至今还是谜团，究竟是误打误撞还是刻意为之，总之从小带我去了很多地方，上了一些课，对我的影响可谓是极大的。在罗老师和宋老师这种说实话有点像古时候私塾的地方呆了挺久，虽说还是理工男的脑子，但在历史与文学中这么长时间的浸润还是打下了基础，至少在受到语文无尽的折磨完，脱离考试后仍然有兴趣和意愿去看看这些书，其实让我对应试教育的观感好了很多。&lt;/p&gt;
+&lt;p&gt;初中在地理和历史中比较坚定的选择了历史，高中时有些犹豫，觉得自己应该是理科生不该选历史，但忘了是生物学的太烂还是家长的建议，最后还是选了历史这科，于是说来便正经学了6年的历史。影响最深的应该还是赵利剑老师，在最紧张的高三还悠闲地用看起来不是很应试的方法慢慢过了全部的课本，讲卷子和做题技巧似乎都很不情愿，现在想来，对这门学科，理解历史比背诵要重要不少。最后历史高考好像没有发挥出平常的水平，不过也无所谓了。&lt;/p&gt;
+&lt;p&gt;可能背诵了六年的东西很快都会忘却，但经过六年一遍又一遍的看课本、写题目，看待历史的方法、角度和对历史的认识其实已经在大脑里形成，当然这些没法用语言表达出来，但当读到某段历史，或是看到当下发生的新闻事件，已经能很自然地归纳概括并得出自己的观点。&lt;/p&gt;
+&lt;p&gt;瞎扯了这么多，因为以后还会看很多历史书，写很多读后感，就当作序章吧。&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Placeholder Text</title>
